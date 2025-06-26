@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Madhampatti Rangaraj Catering",
+    "location": "Coimbatore",
+    "price_per_plate": 500,
+    "veg": true,
+    "contact": "9944556677",
+    "tags": ["premium", "traditional", "South Indian", "veg-only"]
+  },
+  {
+    "name": "Annapoorna Catering",
+    "location": "Coimbatore",
+    "price_per_plate": 180,
+    "veg": true,
+    "contact": "8123456780",
+    "tags": ["budget", "veg-only", "popular"]
+  }
+]

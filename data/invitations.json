@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Card World",
+    "location": "Madurai",
+    "designs_available": 120,
+    "starting_price": 1200,
+    "contact": "9360078910"
+  },
+  {
+    "name": "Royal Prints",
+    "location": "Coimbatore",
+    "designs_available": 95,
+    "starting_price": 1000,
+    "contact": "9360011223"
+  }
+]

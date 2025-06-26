@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Sri Ram Mahal",
+    "location": "Madurai",
+    "cost": 85000,
+    "capacity": 500,
+    "ac": true,
+    "contact": "9944332211"
+  },
+  {
+    "name": "Lakshmi Wedding Hall",
+    "location": "Madurai",
+    "cost": 65000,
+    "capacity": 300,
+    "ac": false,
+    "contact": "9845112233"
+  }
+]
